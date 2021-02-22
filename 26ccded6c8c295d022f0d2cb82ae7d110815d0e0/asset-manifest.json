@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "./static/css/main.c085b000.chunk.css",
-    "main.js": "./static/js/main.c3200184.chunk.js",
-    "main.js.map": "./static/js/main.c3200184.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2af3f295.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2af3f295.js.map",
-    "static/js/2.ebb5b8ce.chunk.js": "./static/js/2.ebb5b8ce.chunk.js",
-    "static/js/2.ebb5b8ce.chunk.js.map": "./static/js/2.ebb5b8ce.chunk.js.map",
-    "static/js/3.cf6e8d0e.chunk.js": "./static/js/3.cf6e8d0e.chunk.js",
-    "static/js/3.cf6e8d0e.chunk.js.map": "./static/js/3.cf6e8d0e.chunk.js.map",
+    "main.js": "./static/js/main.0e6752e7.chunk.js",
+    "main.js.map": "./static/js/main.0e6752e7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a3f0999a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a3f0999a.js.map",
+    "static/js/2.999f084a.chunk.js": "./static/js/2.999f084a.chunk.js",
+    "static/js/2.999f084a.chunk.js.map": "./static/js/2.999f084a.chunk.js.map",
+    "static/js/3.d6caf4de.chunk.js": "./static/js/3.d6caf4de.chunk.js",
+    "static/js/3.d6caf4de.chunk.js.map": "./static/js/3.d6caf4de.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.c085b000.chunk.css.map": "./static/css/main.c085b000.chunk.css.map",
-    "static/js/2.ebb5b8ce.chunk.js.LICENSE.txt": "./static/js/2.ebb5b8ce.chunk.js.LICENSE.txt",
+    "static/js/2.999f084a.chunk.js.LICENSE.txt": "./static/js/2.999f084a.chunk.js.LICENSE.txt",
     "static/media/Aneka Cireng Frozen.jpg": "./static/media/Aneka Cireng Frozen.99d424a4.jpg",
     "static/media/Ayam Goreng Serai.jpg": "./static/media/Ayam Goreng Serai.a8974c59.jpg",
     "static/media/Bundling, Kulit Ayam Krispy 130gr.jpeg": "./static/media/Bundling, Kulit Ayam Krispy 130gr.ac6ba0b1.jpeg",
     "static/media/Holycow Steak Set Wagyu Tenderloin.jpg": "./static/media/Holycow Steak Set Wagyu Tenderloin.174a5997.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2af3f295.js",
-    "static/js/2.ebb5b8ce.chunk.js",
+    "static/js/runtime-main.a3f0999a.js",
+    "static/js/2.999f084a.chunk.js",
     "static/css/main.c085b000.chunk.css",
-    "static/js/main.c3200184.chunk.js"
+    "static/js/main.0e6752e7.chunk.js"
   ]
 }
